@@ -1,0 +1,106 @@
+.body{
+    background:-webkit-linear-gradient(
+        blueviolet,
+        teal
+    );
+    background: linear-gradient(
+        to left,
+        blueviolet,
+        teal
+    );
+    font-family: 'Poppins', sans-serif;
+}
+
+.box{
+    background-color: white;
+    width: 350px;
+    height: 390px;
+    margin-left: auto;
+    margin-right: auto;
+
+
+}
+
+.title{
+    padding: 20px 10px 10px 5px;
+    text-align: center;
+    
+
+    
+    
+}
+
+
+.label{
+    margin-left: 10px;
+    
+
+}
+.text{
+    margin-left: 10px;
+    margin-bottom: 15px;
+    width: 320px;
+    height: 30px;
+    
+
+}
+
+.password{
+    margin-left: 10px;
+    
+
+}
+
+.password2{
+    margin-left: 10px;
+    width: 320px;
+    height: 30px;
+    
+}
+
+.link{
+    margin-left: 10px;
+}
+
+.button{  
+    background:-webkit-linear-gradient(
+        blueviolet,
+        teal,
+        turquoise
+    );
+    background: linear-gradient(
+        to left,
+        blueviolet,
+        teal,
+        turquoise
+    );
+    width: 320px;
+    height: 35px;
+    display: block;
+    margin-top: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+    color: white;
+    border: none
+
+
+}
+
+.text2{
+
+    margin-left: 70px;
+    
+    
+   
+}
+
+.link2{
+
+    margin-right: 50px;
+    
+    
+}
+
+
+
